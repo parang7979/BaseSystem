@@ -1,9 +1,8 @@
-using Parang.UI;
 using System;
 using UnityEditor;
 using UnityEngine;
 
-namespace parang.UI
+namespace Parang.UI
 {
     [CustomEditor(typeof(UILoop))]
     public class UILoopInspector : Editor
