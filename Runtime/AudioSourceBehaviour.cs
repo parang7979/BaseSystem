@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace Parang
 {
-    public class AudioBehaviour : PoolBehaviour
+    public class AudioSourceBehaviour : PoolBehaviour
     {
         public AudioSource AudioSource;
 
