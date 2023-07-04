@@ -1,0 +1,19 @@
+{
+    "name": "com.parang.basesystem",
+    "version": "0.0.1",
+    "displayName": "Parang unity base system",
+    "description": "Parang unity base system",
+    "unity": "2021.3",
+    "license": "MIT",
+    "repository": {
+        "type": "git"
+    },
+    "author": {
+        "name": "Parang",
+        "email": "Parang7979@gmail.com"
+    },
+    "dependencies": {
+        "com.unity.addressables": "1.19.19",
+        "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask"
+    }
+}
